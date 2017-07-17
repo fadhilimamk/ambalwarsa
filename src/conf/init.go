@@ -5,7 +5,7 @@ import (
 
 	"github.com/garyburd/redigo/redis"
 	"github.com/jmoiron/sqlx"
-	log "github.com/prometheus/common/log"
+	log "github.com/sirupsen/logrus"
 	gcfg "gopkg.in/gcfg.v1"
 )
 
