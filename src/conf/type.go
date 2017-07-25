@@ -20,6 +20,7 @@ type configuration struct {
 type server struct {
 	PORT        string
 	ENVIRONMENT string
+	GINMODE     string
 }
 
 type database struct {

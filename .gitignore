@@ -1,0 +1,9 @@
+# Test binary, build with `go test -c`
+*.test
+
+.vscode/
+bin/
+ambalwarsa
+
+# Handle for Mac user
+.DS_Store
